@@ -58,10 +58,10 @@
             </form>
         </div>
     </div>
-    <script src="validaciones.js"></script>
     <?php
         include("registrar.php");
     ?>
 </body>
+<script src="validaciones.js"></script>
 </html>
 
